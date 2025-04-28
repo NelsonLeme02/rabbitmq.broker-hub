@@ -3,7 +3,7 @@ using System.Text.Json;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace rpnet.broker_matera_hub.rpnet.broker_matera_hub.shared.Abstractions;
+namespace rabbitmq.broker_hub.rabbitmq.broker_hub.shared.Abstractions;
 public abstract class ConsumingTemplate<TModel>(string queue) where TModel : new()
 {
     private readonly IChannel channel = BuildChannelAsync().Result;

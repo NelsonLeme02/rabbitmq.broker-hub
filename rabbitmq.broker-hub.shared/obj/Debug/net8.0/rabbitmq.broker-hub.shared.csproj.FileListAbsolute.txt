@@ -1,0 +1,13 @@
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\bin\Debug\net8.0\rabbitmq.broker-hub.shared.deps.json
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\bin\Debug\net8.0\rabbitmq.broker-hub.shared.dll
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\bin\Debug\net8.0\rabbitmq.broker-hub.shared.pdb
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.csproj.AssemblyReference.cache
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.AssemblyInfoInputs.cache
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.AssemblyInfo.cs
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.csproj.CoreCompileInputs.cache
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.sourcelink.json
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.dll
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\refint\rabbitmq.broker-hub.shared.dll
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\rabbitmq.broker-hub.shared.pdb
+C:\Users\NelsonGabrielCostaLe\Desktop\rabbitmq.broker-hub\rabbitmq.broker-hub\rabbitmq.broker-hub.shared\obj\Debug\net8.0\ref\rabbitmq.broker-hub.shared.dll

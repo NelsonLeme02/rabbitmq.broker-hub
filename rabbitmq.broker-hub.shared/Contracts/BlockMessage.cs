@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace rpnet.broker_matera_hub.rpnet.broker_matera_hub.shared.Contracts;
+namespace rabbitmq.broker_hub.rabbitmq.broker_hub.shared.Contracts;
 public class BlockMessage
 {
     [JsonPropertyName("sourceSystem")]

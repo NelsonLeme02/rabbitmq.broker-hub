@@ -1,11 +1,11 @@
 using System;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.consumer.Modules.Block;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.consumer.Modules.Dict;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.consumer.Modules.Inconsistent;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.consumer.Modules.Payments;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.consumer.Modules.Returns;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.consumer.Modules.Block;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.consumer.Modules.Dict;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.consumer.Modules.Inconsistent;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.consumer.Modules.Payments;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.consumer.Modules.Returns;
 
-namespace rpnet.broker_matera_hub.consumer;
+namespace rabbitmq.broker_hub.consumer;
 
 public class Program
 {

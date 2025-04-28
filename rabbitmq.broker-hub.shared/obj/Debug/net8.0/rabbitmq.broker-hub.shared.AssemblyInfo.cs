@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rabbitmq.broker-hub.shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a06457ab6fc034cf63751a7545e557c7f26868ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d8c243bb20f297446718d780e298726cadbfe85")]
 [assembly: System.Reflection.AssemblyProductAttribute("rabbitmq.broker-hub.shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rabbitmq.broker-hub.shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 using System.Text.Json;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.shared.Abstractions;
-using rpnet.broker_matera_hub.rpnet.broker_matera_hub.shared.Contracts;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.shared.Abstractions;
+using rabbitmq.broker_hub.rabbitmq.broker_hub.shared.Contracts;
 
-namespace rpnet.broker_matera_hub.rpnet.broker_matera_hub.consumer.Modules.Block;
+namespace rabbitmq.broker_hub.rabbitmq.broker_hub.consumer.Modules.Block;
 public class BlockConsumer : ConsumingTemplate<BlockMessage>
 {
     public BlockConsumer() : base("BLOCK_QUEUE")
