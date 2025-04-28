@@ -1,0 +1,12 @@
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\bin\Debug\net8.0\rpnet.broker-matera-hub.shared.deps.json
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\bin\Debug\net8.0\rpnet.broker-matera-hub.shared.dll
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\bin\Debug\net8.0\rpnet.broker-matera-hub.shared.pdb
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.csproj.AssemblyReference.cache
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.AssemblyInfoInputs.cache
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.AssemblyInfo.cs
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.csproj.CoreCompileInputs.cache
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.dll
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\refint\rpnet.broker-matera-hub.shared.dll
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\rpnet.broker-matera-hub.shared.pdb
+c:\Users\NelsonGabrielCostaLe\source\repos\rpnet.broker-matera-hub\rpnet.broker-matera-hub.shared\obj\Debug\net8.0\ref\rpnet.broker-matera-hub.shared.dll

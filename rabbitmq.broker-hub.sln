@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbitmq.broker-hub.consumer", "rabbitmq.broker-hub.consumer\rabbitmq.broker-hub.consumer.csproj", "{DB7BCE94-8A16-44D3-8E5A-D88D79356FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbitmq.broker-hub.shared", "rabbitmq.broker-hub.shared\rabbitmq.broker-hub.shared.csproj", "{52C05DDB-60BB-4D11-A78B-F5849F5DDA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D53E6B-F8B3-4C6A-8758-343FAD9E5629}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7BCE94-8A16-44D3-8E5A-D88D79356FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7BCE94-8A16-44D3-8E5A-D88D79356FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7BCE94-8A16-44D3-8E5A-D88D79356FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7BCE94-8A16-44D3-8E5A-D88D79356FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C05DDB-60BB-4D11-A78B-F5849F5DDA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C05DDB-60BB-4D11-A78B-F5849F5DDA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C05DDB-60BB-4D11-A78B-F5849F5DDA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C05DDB-60BB-4D11-A78B-F5849F5DDA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
